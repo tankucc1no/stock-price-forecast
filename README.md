@@ -14,4 +14,4 @@ By comparing the results produced by different models, you will be able to analy
 ## Multiple Linear Regression
 Predict stock prices using raw data.
 ## Ridge Regression
-Some modifications have been made to the raw data. Train the model with the newly generated data.
+Some modifications have been made to the raw data. The model would be trained with the newly generated data.
