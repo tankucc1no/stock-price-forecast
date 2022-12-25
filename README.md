@@ -1,6 +1,6 @@
 # Stock-price-forecast
-Use Linear Regression to Forecast Stock Prices.
-
+Use Linear Regression to Forecast Stock Prices.  
+This is a basic model that requires manual addition of different parameters and features to compare the two models.
 # Goals
 Use “Stock Exchange Data” to train the multiple linear regression model and the ridge regression model, and forecast the next day's closing price for a single stock.
 
